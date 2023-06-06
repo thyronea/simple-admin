@@ -13,7 +13,7 @@
             </ul>
           </div>
           <div class="footer-bottom">
-            <p>Copyright &copy;2023 <a href="/HC/index.php">Company</a></p>
+            <p>Copyright &copy;2023 <a href="index.php">Company</a></p>
                   <div class="footer-menu">
                     <ul class="f-menu">
                       <li><a href="">Privacy Policy</a></li>
