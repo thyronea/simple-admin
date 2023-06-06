@@ -4,7 +4,7 @@
 
     <footer class="">
           <div class="footer-bottom">
-            <p>Copyright &copy;2023 <a href="/HC/index.php">Health Connect</a>  </p>
+            <p>Copyright &copy;2023 <a href="index.php"></a>  </p>
                   <div class="footer-menu">
                     <ul class="f-menu">
                       <li><a href="">Privacy Policy</a></li>
